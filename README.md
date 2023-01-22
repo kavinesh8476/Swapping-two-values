@@ -19,7 +19,8 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-'''Program to find L and U matrix using LU decomposition.
+'''
+Program to swap two values.
 Developed by:Kavinesh M 
 RegisterNumber: 22008476
 '''
